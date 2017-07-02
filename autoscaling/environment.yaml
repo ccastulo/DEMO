@@ -1,0 +1,3 @@
+resource_registry:
+
+    "OS::Nova::Server::Cirros": "https://github.com/MorphGlobal/DEMO/blob/master/autoscaling/single.yaml"
